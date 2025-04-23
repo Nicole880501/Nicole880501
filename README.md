@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 ## 📫 How to reach me: 
 * 📫: nicolews.chen@gmail.com
-* [LinkedIn] :Link www.linkedin.com/in/nicolewschen
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolewschen/)
