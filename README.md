@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## 👩‍💻 About Me
-Hi, This is Nicole. I am currrently a Master's Student in Management Information System @ National Central University 
+Hi, My name is Nicole Chen. I am currrently a Master's Student in Management Information System @ National Central University 
 <!--
 **Nicole880501/Nicole880501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
